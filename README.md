@@ -9,3 +9,9 @@ Data penjualan buku Amazon yang digunakan didapatkan dari Kaggle.com. Data ini b
 - Harga (USD)
 - Tahun terbit (Year)
 - Genre (fiksi dan nonfiksi)
+## Hal Yang Dilakukan:
+- Menganalisis hubungan User Rating dengan genre buku dari Tahun 2009-2022
+- Menganalisis jumlah review pada buku top 50 Amazon
+- Menganalisis perubahan harga buku top 50 di Amazon dari Tahun 2009-2022
+- Menganalisis hubungan antara jumlah review dengan user rating
+- 
